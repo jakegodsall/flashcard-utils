@@ -1,6 +1,5 @@
 from flashcard_utils.logs.logger import get_logger
 
-
 logger = get_logger(level="INFO")
 
 
